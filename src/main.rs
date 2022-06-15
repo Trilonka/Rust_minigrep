@@ -1,3 +1,7 @@
+/*
+    Grep search simple analog, terminal application
+*/
+
 use std::env;
 use std::process;
 
